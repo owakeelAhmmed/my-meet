@@ -1,3 +1,4 @@
+"use client"
 import { clerkMiddleware, createRouteMatcher } from "@clerk/nextjs/server";
 import { SWRConfig } from 'swr'; // Correct import for SWR
 
